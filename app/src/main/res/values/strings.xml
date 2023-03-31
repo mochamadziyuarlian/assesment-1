@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">aplikasi suhu</string>
+    <string name="hitung">hitung</string>
+    <string name="hasil">hasil</string>
+    <string name="textsuhu">masukan suhu</string>
+    <string name="textfahrenheit">F</string>
+    <string name="textcelcius">C</string>
+    <string name="suhuinvalid">isikan suhu</string>
+    <string name="radioinvalid">pilih</string>
+    <string name="hasil_operasi">%1$.2f</string>
+    <string name="textJudul">Perhitungan Suhu</string>
+    <string name="btn_Clear">Clear</string>
+    <string name="textInfo">Pilih untuk menentukan satuan sebelum diconvert</string>
+</resources>
